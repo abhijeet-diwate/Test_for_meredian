@@ -44,3 +44,6 @@ python main.py
 
 ## License
 This project is available for educational use.
+## Meridian Connector Test
+This section contains synthetic test data.
+The project coordinator is Ananya Deshmukh.
